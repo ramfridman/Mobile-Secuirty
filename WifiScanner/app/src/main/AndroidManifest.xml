@@ -18,9 +18,9 @@
         <activity
             android:name=".NetworkInfoActivity"
             android:exported="false" />
-        <activity
-            android:name=".RttActivity"
-            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".RttActivity"-->
+<!--            android:exported="false" />-->
         <activity
             android:name=".MainActivity"
             android:exported="true">
